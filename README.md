@@ -32,23 +32,6 @@ Use it two ways:
 > Package names differ by model, region and OS version, so other phones may need small changes.
 > Test tier 1 first, and please [add your device](CONTRIBUTING.md).
 
-<h3 align="center">Before / After</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>BEFORE</b></td>
-    <td></td>
-    <td align="center"><b>AFTER</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/before.png" width="260" alt="Before: system ads on a Xiaomi phone"></td>
-    <td align="center">→</td>
-    <td><img src="docs/after.png" width="260" alt="After: the same screen without ads"></td>
-  </tr>
-</table>
-
-<!-- "Featured in" block: add real press / community links here when you have them. Do not add logos you have not earned. -->
-
 ## Quick start
 
 **1. Prepare the phone (once)**
