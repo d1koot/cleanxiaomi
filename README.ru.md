@@ -25,23 +25,6 @@
   </tr>
 </table>
 
-<h3 align="center">До и после</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>ДО</b></td>
-    <td></td>
-    <td align="center"><b>ПОСЛЕ</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/before.png" width="260" alt="До: системная реклама на Xiaomi"></td>
-    <td align="center">→</td>
-    <td><img src="docs/after.png" width="260" alt="После: тот же экран без рекламы"></td>
-  </tr>
-</table>
-
-<!-- Блок «О нас пишут»: добавьте сюда реальные ссылки на публикации, когда они появятся. -->
-
 ## Быстрый старт
 
 **1. Подготовьте телефон (один раз)**
