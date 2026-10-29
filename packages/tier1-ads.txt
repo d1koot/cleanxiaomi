@@ -1,0 +1,5 @@
+# Tier 1 - system ads and analytics (lowest risk).
+# Verified: Redmi 9 (M2004J19C), MIUI 12 (V12), Android 10, region RU  -> disable-user accepted for both.
+com.miui.msa.global          # MSA: MIUI System Ads (global/RU ROMs)   [verified: Redmi 9]
+com.miui.analytics           # Xiaomi Analytics                        [verified: Redmi 9]
+com.miui.systemAdSolution    # MSA: system ad solution (China ROMs)    [unverified]

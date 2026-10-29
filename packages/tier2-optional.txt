@@ -1,0 +1,11 @@
+# Tier 2 - optional preinstalled apps. Ask the user first. Seen on Redmi 9 (MIUI 12, RU) unless noted.
+com.xiaomi.mipicks                 # GetApps (app store with recommendations)
+com.mi.android.globalminusscreen   # App Vault / minus-one screen
+com.miui.player                    # Mi Music
+com.miui.videoplayer               # Mi Video
+com.xiaomi.glgm                    # Games / Game Center
+com.miui.hybrid                    # Quick Apps
+com.miui.hybrid.accessory          # Quick Apps accessory
+com.mi.globalbrowser               # Mi Browser (keep it if you use it!)
+com.mi.global.bbs                  # Mi Community   [not seen on Redmi 9 RU]
+com.mi.global.shop                 # Mi Store       [not seen on Redmi 9 RU]

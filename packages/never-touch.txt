@@ -1,0 +1,15 @@
+# NEVER touch these (non-exhaustive). Breaking them can cause bootloops or loss of core features.
+android
+com.android.systemui
+com.android.settings
+com.android.phone
+com.android.providers.*
+com.miui.home                # launcher (only replace via a new launcher, never disable the last one)
+com.miui.system
+com.miui.core
+com.miui.securitycenter
+com.miui.powerkeeper
+com.miui.daemon
+com.xiaomi.xmsf              # push notifications for many apps
+com.google.android.gms       # Google Play services
+com.xiaomi.joyose            # gaming optimisation — removal can hurt game performance
